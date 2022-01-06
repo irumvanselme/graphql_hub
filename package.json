@@ -1,0 +1,24 @@
+{
+    "name": "graphql_hub",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/irumvanselme/graphql_hub.git",
+    "author": "anselme <andesanselme@gmail.com>",
+    "scripts": {
+        "dev": "ts-node-dev index.ts"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "class-validator": "^0.13.2",
+        "graphql": "^16.2.0",
+        "install": "^0.13.0",
+        "mongodb": "3.6.0",
+        "npm": "^8.3.0",
+        "pg": "^8.7.1",
+        "reflect-metadata": "^0.1.13",
+        "ts-node-dev": "^1.1.8",
+        "type-graphql": "^1.1.1",
+        "typeorm": "^0.2.41",
+        "typescript": "^4.5.4"
+    }
+}
